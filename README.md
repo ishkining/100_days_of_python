@@ -15,3 +15,7 @@ Unfortenately, I don't have much time to enjoy of funny stuff in these coding ch
 ## Day 5-6
 
 I'm quite busy this of doing a hard job in village. So because of it I feel like I try to accomplish these challanges fast, but I have fun with it
+
+## Day 7-8
+
+Again, again and again I feel like it's the best resource for beginners. It's such a shame that I progress much slower in the past with other resources.

@@ -19,3 +19,7 @@ I'm quite busy this of doing a hard job in village. So because of it I feel like
 ## Day 7-8
 
 Again, again and again I feel like it's the best resource for beginners. It's such a shame that I progress much slower in the past with other resources.
+
+## Day 9-10
+
+I feel a little bit tired of working in village, so coding is quite hard for my hands, so I tried to make these challanges fast.

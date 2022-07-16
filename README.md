@@ -23,3 +23,7 @@ Again, again and again I feel like it's the best resource for beginners. It's su
 ## Day 9-10
 
 I feel a little bit tired of working in village, so coding is quite hard for my hands, so I tried to make these challanges fast.
+
+## Day 11
+
+I lost some will for making programs, so it was hard to make another project where all of it are practice. BlackJack was easy as pie.

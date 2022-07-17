@@ -27,3 +27,7 @@ I feel a little bit tired of working in village, so coding is quite hard for my 
 ## Day 11
 
 I lost some will for making programs, so it was hard to make another project where all of it are practice. BlackJack was easy as pie.
+
+## Day 12-13
+
+Now I'm tired in a new level, but I can do these exercises with closed eyes. It wasso easy, but in some cases theory is really useful.

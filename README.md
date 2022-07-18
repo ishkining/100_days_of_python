@@ -31,3 +31,7 @@ I lost some will for making programs, so it was hard to make another project whe
 ## Day 12-13
 
 Now I'm tired in a new level, but I can do these exercises with closed eyes. It wasso easy, but in some cases theory is really useful.
+
+## Day 14-15
+
+It's so cool that I'm using PyCharm right now, I forget about this IDE that is really amazing to use. New coffee machine program with TODOs is really mind blowing

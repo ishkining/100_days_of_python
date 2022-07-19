@@ -35,3 +35,7 @@ Now I'm tired in a new level, but I can do these exercises with closed eyes. It 
 ## Day 14-15
 
 It's so cool that I'm using PyCharm right now, I forget about this IDE that is really amazing to use. New coffee machine program with TODOs is really mind blowing
+
+## Day 16-18
+
+Now I'd crossed with my lovely thing and it is OOP. We had just repeated the basis of making classes and objects and I made a painting for 1 million pounds.

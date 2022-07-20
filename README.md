@@ -39,3 +39,7 @@ It's so cool that I'm using PyCharm right now, I forget about this IDE that is r
 ## Day 16-18
 
 Now I'd crossed with my lovely thing and it is OOP. We had just repeated the basis of making classes and objects and I made a painting for 1 million pounds.
+
+## Day 19-21
+
+We are just learned a little more about OOP(inheritence) and made a cool game "Snake game" with turtle library. It was coooool.😂

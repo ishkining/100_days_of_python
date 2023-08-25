@@ -43,3 +43,8 @@ Now I'd crossed with my lovely thing and it is OOP. We had just repeated the bas
 ## Day 19-21
 
 We are just learned a little more about OOP(inheritence) and made a cool game "Snake game" with turtle library. It was coooool.😂
+
+## Day 58
+
+I have learned a lot about bootstrap, I quited this challenge cause I was afraid of getting knowledge about css and I have a fear to waste so much time to watch lections and practice, but i did it. 4.5 hours impressive
+
